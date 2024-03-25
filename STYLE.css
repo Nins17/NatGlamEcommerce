@@ -1,0 +1,131 @@
+*{
+  margin: 0;
+}
+.soc{
+  margin-top: 0;
+}
+.toplogo{
+  margin-left: 750px;
+ margin-top: 0;
+  
+}
+.button1 {
+  margin-top: 30px;
+  margin-bottom: 0;
+  background-color:  transparent;
+  font-style:inherit;
+  font-size: 18px;
+  width: 100px; 
+    color:white;
+    border: none;
+    transition:transform 0.3s;
+  }
+  .button1:hover {
+    transform:  scale(1.5);
+    color: #dfbf9f;
+   
+  }
+  .button5{
+    background-color:  transparent;
+    margin: 0;
+    border: none;
+    transition:transform 0.3s;
+
+  }
+  .button5:hover {
+    transform:  scale(1.5);
+  }
+  
+
+  
+  .button2 {
+    margin-bottom: 100px;
+    margin-top: 30px;
+    font-size: 20px;
+    background-color:   #ffd7c8; 
+    color:  #471500; 
+    border: 2px solid #ffd7c8;
+    border-radius: 20px;
+    transition:transform .2s;
+  }
+  
+  .button2:hover {
+    transform:  scale(.8);
+    background-color: #dfbf9f;
+    color:  #471500;
+  }
+ .button6{
+  margin-bottom: 50px;
+  font-size: 20px;
+  color: white; 
+  background-color:  transparent;
+  margin: 0;
+  border: none;
+  transition:transform .2s;
+ }
+ .button6:hover {
+  transform:  scale(.8);
+  color: #dfbf9f;}
+ 
+  .jumbotron{
+    margin-bottom: 100;
+    margin-top: 70px;
+    position: center;
+    text-align: center;
+    padding: 8rem;
+    height: 180px;
+  
+    
+          
+      }
+  .navbar{ 
+    margin-right: 50px;
+        text-shadow: white;
+    }
+    .fw{
+      margin-bottom: 10px;
+      color: #fffafa;
+     font-family: "Georgia",serif;
+      font-size: 80px;
+      
+  }
+  .tag{
+    color:white;
+
+}
+body{
+  background-image: url('images/bannerist.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.mb-1{
+  margin-top: 150px; 
+  margin-bottom: 20px;
+  position: center;
+  text-align: center;
+  color: aliceblue;
+  
+}
+.categories{
+  text-align: center;
+  margin: 5px;
+  }
+.img{
+  margin-right: 100px;
+  margin-left: 100px;
+}
+.video{
+  background-color: #471500;
+  padding: 1px;
+  margin-left: 185px;
+  margin-right: 185px;
+  margin-bottom: 185px;
+  border:3px #471500;
+  border-radius: 10px;
+}
+
+
+
+
